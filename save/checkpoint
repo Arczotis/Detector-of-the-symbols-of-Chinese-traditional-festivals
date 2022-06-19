@@ -1,0 +1,2 @@
+model_checkpoint_path: "E:/Downloads/Detector of the symbols of Chinese traditional festivals/save\\model.ckpt-199"
+all_model_checkpoint_paths: "E:/Downloads/Detector of the symbols of Chinese traditional festivals/save\\model.ckpt-199"
